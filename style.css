@@ -107,5 +107,14 @@ button {
     #main{
         width: 95%;
     }
+
+    body{
+        background-image: url(./images/eviir.full1_.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* height: 100vh; */
+        background-attachment: fixed;
+        background-position: center;
+    }
   }
 
